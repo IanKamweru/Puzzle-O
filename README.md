@@ -1,6 +1,8 @@
-# Puzzle-O
-This is My intro to Comp Sci 2 project and is a puzzle game
 
+
+https://user-images.githubusercontent.com/90436611/157787545-8efed272-b92e-4815-b2f0-3f2701e06c28.mp4
+
+# Puzzle-O
 The Puzzle interface is implemented by the three puzzles and contains a set of methods to check the row and column constraints. There’s also a set of methods (checkAnswer and checkFinalAnswer) which are a different set of constraints called when the user presses the Check Answer button as they continue filling the puzzle. Puzzle also contains a method to get the grid, get possible values and get the game frame.
 
 -The Spot class extends JButton and all the in-puzzle buttons for each puzzle extend this class.
